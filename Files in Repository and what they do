@@ -3,3 +3,11 @@ This readme will just give a shirt description of what each of the java files th
     This file sorts and array of ints from smallest to largest by bubble sort and then finds the median of the then sorted array of ints and outputs them as a double.
     The output is as a double as the median must be found if the array length is even by dividing by two and this can cause a double top be outputed sometimes so automatically converting to a double gets rid of the answer being chsnged as a loss of conversion accuracy.
     
+2)Array_Strings_Bubble
+    This file sorts an array of strings in alpahbetical order by bubble sort and then prints out the array of strings once sorted.
+    
+3)Array_Strings_Insertion
+    This file sorts an array of strings in alphabetical order by isertion sort and then prints out the array of strings once sorted.
+    
+4)Array_Strings_Selection
+    This file sorts an array of strings in alphabetical order by Selection Sort and then prints out the array of strings omc sorted.
